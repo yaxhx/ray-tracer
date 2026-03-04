@@ -1,0 +1,48 @@
+# depslib dependency file v1.0
+1772023778 source:/home/kali/Documents/racketracer/main.cpp
+	"general.h"
+	"hittable.h"
+	"hittable_list.h"
+	"material.h"
+	"sphere.h"
+	"camera.h"
+	"interval.h"
+
+1771578652 /home/kali/Documents/racketracer/color.h
+	"interval.h"
+	"vec3.h"
+
+1772013501 /home/kali/Documents/racketracer/vec3.h
+
+1770900591 /home/kali/Documents/racketracer/ray.h
+	"vec3.h"
+
+1770902136 /home/kali/Documents/racketracer/general.h
+	<cmath>
+	<random>
+	<iostream>
+	<limits>
+	<memory>
+	"color.h"
+	"ray.h"
+	"vec3.h"
+
+1770900599 /home/kali/Documents/racketracer/interval.h
+
+1771833090 /home/kali/Documents/racketracer/hittable.h
+
+1770900591 /home/kali/Documents/racketracer/hittable_list.h
+	"hittable.h"
+	<vector>
+
+1771921418 /home/kali/Documents/racketracer/sphere.h
+	"hittable.h"
+	"vec3.h"
+
+1771921508 /home/kali/Documents/racketracer/camera.h
+	"hittable.h"
+	"material.h"
+
+1772023607 /home/kali/Documents/racketracer/material.h
+	"hittable.h"
+
